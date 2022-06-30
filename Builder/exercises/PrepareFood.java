@@ -2,7 +2,7 @@ package exercises;
 
 /**
  * 
- * @author darpanbora
+ * @author mbhardw
  * This is an example class of Builder Design Pattern. 
  */
 public class PrepareFood {

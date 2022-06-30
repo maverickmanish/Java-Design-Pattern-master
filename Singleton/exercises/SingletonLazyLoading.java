@@ -1,7 +1,7 @@
 package exercises;
 
 /**
- * @author darpanbora
+ * @author mbhardw
  * In this code, we try to create a singleton class of our own and name it "SingletonLazyLoading" 
  * along with implementing lazy loading technique. 
  * One of the form of lazy loading is infinite scroll which only loads data as users scroll down

@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 
- * @author darpanbora
+ * @author mbhardw
  * This code is an example of Shallow Copy. It sends the references of the arraylist and objects, we passed in. 
  * In case of a deep copy, it would return a new arraylist with the parameters we passed in and a new objects with the values,
  * we passed in. 

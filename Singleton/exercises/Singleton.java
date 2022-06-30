@@ -1,7 +1,7 @@
 package exercises;
 
 /**
- * @author darpanbora
+ * @author mbhardw
  * In this code, we try to create a singleton class of our own and name it "Singleton". 
  * We'll also create another class "testDbSingleton" to check it. 
  */
